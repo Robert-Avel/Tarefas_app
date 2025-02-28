@@ -1,0 +1,38 @@
+[
+ {
+  "a\u00e7\u00e3o": "Adicionar",
+  "nome": "Come",
+  "antes": "---",
+  "depois": "---"
+ },
+ {
+  "a\u00e7\u00e3o": "Editar",
+  "nome": "Comer",
+  "antes": "Come",
+  "depois": "---"
+ },
+ {
+  "a\u00e7\u00e3o": "Adicionar",
+  "nome": "Dormir",
+  "antes": "---",
+  "depois": "---"
+ },
+ {
+  "a\u00e7\u00e3o": "Avan\u00e7ar",
+  "nome": "Comer",
+  "antes": "Pendente",
+  "depois": "Em Andamento"
+ },
+ {
+  "a\u00e7\u00e3o": "Avan\u00e7ar",
+  "nome": "Comer",
+  "antes": "Em Andamento",
+  "depois": "Conclu\u00eddo"
+ },
+ {
+  "a\u00e7\u00e3o": "Apagar",
+  "nome": "Comer",
+  "antes": "---",
+  "depois": "---"
+ }
+]
